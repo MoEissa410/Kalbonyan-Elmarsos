@@ -20,7 +20,6 @@ ___
 
  ____
  ____
- ____
  # ***FURPS + requirement***  
  > ### in short mean  
   
@@ -54,7 +53,6 @@ ___
 
  >**the purpose of FURPS plus**   
  is to prompt you to think about certain key requirement areas
- ___
  ___
  ___
  # 
