@@ -1,7 +1,7 @@
 # ***Requirments***
 mean what your application or product needs to do.  
   
-**>### functional requirements  
+### **functional requirements** 
 * the system **must do**
 * the application **must do**
 ___
