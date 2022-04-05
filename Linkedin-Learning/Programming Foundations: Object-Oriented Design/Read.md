@@ -88,4 +88,24 @@ ___
 * Responsibilities 
 * Helper   
 
-  **Those are effectively the same thing, just using different terms.**
+  **Those are effectively the same thing, just using different terms.**  
+  ___
+## constructor
+ **It's a special method that gets called when the object is instantiated to help configure it.**
+
+## multiple constructors  
+ **have more than one method with the same name, but different sets of input parameters.**  
+
+##  destructor 
+**is a special method that gets called when an object is no longer needed and and is being disposed of.**  
+
+## finalizer 
+**rather than a destructor, but the concept is the same. It's a place to put some code that will automatically be called when the object is destroyed.**  
+## instance variable
+ **Variable for which  each instantiated object of Class has a separate copy**
+
+## static variable
+  * **which is a variable that's shared across all objects in the same class**   
+  * **This is also referred to as a class level or shared variable.**  
+
+     Python doesn't use the static keyword. 
