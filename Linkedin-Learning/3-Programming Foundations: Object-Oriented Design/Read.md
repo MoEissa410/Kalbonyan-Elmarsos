@@ -109,3 +109,12 @@ ___
   * **This is also referred to as a class level or shared variable.**  
 
      Python doesn't use the static keyword. 
+
+class Dog():  
+
+      def __init__(self):  
+    #instance variables
+      self.breed=""
+       self.weight=50
+    #methods``
+---
