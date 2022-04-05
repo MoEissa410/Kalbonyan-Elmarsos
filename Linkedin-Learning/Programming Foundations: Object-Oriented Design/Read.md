@@ -23,16 +23,11 @@ ___
  ____
  # ***FURPS + requirement***  
  > ### in short mean  
-  
- * Functionality 
- * usability
- * reliability
- * performance  
- * supportability  
+    
   FURPS serves as a checklist of several key qualities to consider when determining requirements.  
   > **Functionality**  
    refers to the capabilities and Security and features of the app. 
-   ___  
+   
   > **Usability**  
     affects the person who will be using the program. 
 
