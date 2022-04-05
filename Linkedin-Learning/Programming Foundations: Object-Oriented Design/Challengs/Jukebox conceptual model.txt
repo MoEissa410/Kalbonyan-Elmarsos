@@ -1,0 +1,6 @@
+ Verb phrases
+* add song to queue
+* select song from queue
+* play song 
+* cancel the song
+* identify user
