@@ -1,0 +1,19 @@
+frist i will use FIRBS acronym as a guide.
+
+1-Functionality
+* maintaining a music library of albums and songs.
+* allowing users to browse those albums and songs .
+* allowing users to select individual songs.
+* preventing them from playing full albums. 
+* maintain a queue of songs to play
+* play music.
+* allow the user to sort by artist.
+* identify individual users
+* track the number of plays per user.
+
+2-non_functional requirements
+the system should be: 
+* intuitive to use while floating in space
+* Availble 24/7
+* Low_power
+* updatable
