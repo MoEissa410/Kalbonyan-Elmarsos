@@ -31,7 +31,7 @@ ___
   FURPS serves as a checklist of several key qualities to consider when determining requirements.  
   > **Functionality**  
    refers to the capabilities and Security and features of the app. 
-   ___  
+   
   > **Usability**  
     affects the person who will be using the program. 
 
@@ -55,4 +55,20 @@ ___
  is to prompt you to think about certain key requirement areas
  ___
  ___
- # 
+ # ***Use Cases and User Stories***   
+ ## Use cases
+ * **Title:** what is the goal?
+ * **primary actor:** who desiers it  
+ * **Success Scenario:** How is it accomplished?  
+ * **Extensions:** for th problem  
+
+ 
+ >There isn't a single right way to write use cases 
+ ---
+
+## User stories
+* As a(typeof user)
+* I want (goal)
+* So that (reason) **thise is optional**
+
+
