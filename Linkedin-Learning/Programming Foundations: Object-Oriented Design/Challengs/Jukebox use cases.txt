@@ -1,0 +1,7 @@
+ Use cases:
+* Title: Play songs
+* Primary Actor: User
+* Scenario: System identifies user. user browses library user select albums. user selected a song. System play the song 
+
+# User stories: 
+* As a user I want to enjoy eating my meal so that Avoid using your phone, computer, or tv during your mea.
