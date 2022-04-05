@@ -21,10 +21,11 @@ ___
  ____
  ____
  ____
- # ***FURPS + requirement***  
- > ### in short mean  
+ # ***FURPS + requirement*** 
+   FURPS serves as a checklist of several key qualities to consider when determining requirements.  
+  ### **in short mean**  
     
-  FURPS serves as a checklist of several key qualities to consider when determining requirements.  
+ 
   > **Functionality**  
    refers to the capabilities and Security and features of the app. 
    
