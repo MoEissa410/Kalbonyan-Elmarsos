@@ -20,6 +20,7 @@ ___
 
  ____
  ____
+ ____
  # ***FURPS + requirement***  
  > ### in short mean  
   
@@ -31,7 +32,7 @@ ___
   FURPS serves as a checklist of several key qualities to consider when determining requirements.  
   > **Functionality**  
    refers to the capabilities and Security and features of the app. 
-   
+   ___  
   > **Usability**  
     affects the person who will be using the program. 
 
@@ -70,5 +71,8 @@ ___
 * As a(typeof user)
 * I want (goal)
 * So that (reason) **thise is optional**
-
-
+___
+___
+# Domain Modeling
+### Conceptual Model
+Represents important objects and the relationships between them
