@@ -1,7 +1,7 @@
 # ***Requirments***
 mean what your application or product needs to do.  
   
->### functional requirements  
+**>### functional requirements  
 * the system **must do**
 * the application **must do**
 ___
@@ -76,3 +76,20 @@ ___
 # Domain Modeling
 ### Conceptual Model
 Represents important objects and the relationships between them
+___
+## CRC cards
+>stands for:
+* Class
+* Responsibility 
+* Collaboration  
+
+  **CRC cards contain the same information as the Conceptual Object Diagram, just in a different format.**
+
+---
+### **CRH cards**
+>stands for:
+* Component
+* Responsibilities 
+* Helper   
+
+  **Those are effectively the same thing, just using different terms.**
