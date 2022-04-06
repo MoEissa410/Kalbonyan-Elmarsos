@@ -1,0 +1,23 @@
+* user
+id: string
+
+
+* Admin (inheritance form *User)
+createUser()
+manageQueue()
+
+
+*Queue                                         * library
+- play list:Songs[0..1*]                         - titles:Strings[1..*]
+add song()                                       - albums: Albums[1..*]                                                                            
+getnext song()                                     getTitles():Strings[1..*]
+removesong()                                       getAlbum(String):album
+
+
+
+
+ *song                                         * Albums:                              
+  -title:String                               titles: string
+  -artist:String                               songs: song
+  getTitles():String                          getTitles():String[1..*]
+  getArstists():String                        getSong(String):Song
