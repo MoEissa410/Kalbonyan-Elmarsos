@@ -209,3 +209,12 @@ class Dog():
        self.weight=50
     #methods
 ---
+
+____
+____
+## **Certificate**    
+![3](https://user-images.githubusercontent.com/74250349/162436430-2f5a7d39-3b46-4778-840d-27f594d5ce34.png)
+
+
+
+
