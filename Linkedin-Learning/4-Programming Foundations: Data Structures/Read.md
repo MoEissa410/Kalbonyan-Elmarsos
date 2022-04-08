@@ -15,7 +15,3 @@ ____
 * Stacks and queues
 * Hash functions and hash tables
 * Trees and graphs
-____
-### **Certificate**  
-
-![**Certificate**](https://user-images.githubusercontent.com/74250349/162433676-657a1303-02af-47f9-b01b-9826acc73058.png)
