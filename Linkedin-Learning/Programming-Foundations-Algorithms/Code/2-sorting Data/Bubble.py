@@ -1,5 +1,4 @@
 # Bubble sort is a simple sorting algorithm  
-
 def bubblesort(dataset):
     for i in range(len(dataset)-1 , 0 , -1 ):
         for j in range(i):
@@ -17,3 +16,4 @@ def main():
     print("Result State :  " , list1) 
 if __name__ == "__main__":
     main()
+  
